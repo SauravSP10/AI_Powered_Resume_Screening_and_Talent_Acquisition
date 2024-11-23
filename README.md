@@ -37,12 +37,12 @@ python -m spacy download en_core_web_sm
 ## **File Structure**
 
 ```
-ai-resume-screening/
+AI_Powered_Resume_Screening_and_Talent_Acquisition/
 ├── resumes_folder/         # Directory containing resumes
 │   ├── resume1.pdf
 │   ├── resume2.docx
 │   └── ...
-├── resume_screening.py     # Main script for screening
+├── ai_resume_screening.py     # Main script for screening
 ├── README.md               # Documentation
 └── requirements.txt        # List of dependencies
 ```
