@@ -38,7 +38,7 @@ python -m spacy download en_core_web_sm
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/ai-resume-screening.git
+   git clone https://github.com/SauravSP10/ai-resume-screening.git
    cd ai-resume-screening
    ```
 
