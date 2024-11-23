@@ -34,30 +34,6 @@ python -m spacy download en_core_web_sm
 
 ---
 
-## **Usage**
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/SauravSP10/ai-resume-screening.git
-   cd ai-resume-screening
-   ```
-
-2. **Prepare Input Data**:
-   - Add your **job description** as a string in the script.
-   - Place resumes in the `resumes_folder/` directory.
-
-3. **Run the Script**:
-   Execute the script to rank resumes:
-   ```bash
-   python resume_screening.py
-   ```
-
-4. **View Results**:
-   - Displays top-ranked resumes with similarity scores.
-   - Customize the number of resumes displayed by changing the `top_n` variable in the script.
-
----
-
 ## **File Structure**
 
 ```
